@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jecc.github.io
+title: Jon Cramer
+tagline: dot dot dot
+description: My awesome new site
+paginate: 10
